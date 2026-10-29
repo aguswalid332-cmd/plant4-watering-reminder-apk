@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-X VIP",
+  "description": "Cyber-X 55Five VIP 5.5 Injector & Seed Engine Predictor with real-time pattern radar, seed cracking, and live community signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
